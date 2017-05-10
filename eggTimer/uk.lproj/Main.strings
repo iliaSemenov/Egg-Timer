@@ -1,0 +1,30 @@
+/* Class = "UIButton"; normalTitle = "Tap to close"; ObjectID = "0bD-xx-s1i"; */
+"0bD-xx-s1i.normalTitle" = "Закрыть";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "6qR-9D-n8J"; */
+"6qR-9D-n8J.title" = "Закрыть";
+
+/* Class = "UIButton"; normalTitle = "START COOKING"; ObjectID = "7nl-fQ-hEb"; */
+"7nl-fQ-hEb.normalTitle" = "НАЧАТЬ ГОТОВИТЬ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z9R-rJ-WbM"; */
+"Z9R-rJ-WbM.text" = "Label";
+
+/* Class = "UILabel"; text = "HARD - BOILED"; ObjectID = "c3w-rR-Mjy"; */
+"c3w-rR-Mjy.text" = "ВКРУТУЮ";
+
+/* Class = "UILabel"; text = "It's ready!"; ObjectID = "grB-ik-SGB"; */
+"grB-ik-SGB.text" = "Всё готово!";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "kKF-gq-ads"; */
+"kKF-gq-ads.text" = "00";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "kd1-bo-ntM"; */
+"kd1-bo-ntM.text" = ":";
+
+/* Class = "UILabel"; text = "Cooled?"; ObjectID = "tAd-7h-Anb"; */
+"tAd-7h-Anb.text" = "Холодные?";
+
+/* Class = "UILabel"; text = "05"; ObjectID = "ubu-Js-1LF"; */
+"ubu-Js-1LF.text" = "05";
+
